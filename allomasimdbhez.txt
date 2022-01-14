@@ -1,0 +1,11 @@
+0;Budapest
+1;Allomas1
+2;Allomas2
+3;Allomas3
+4;Allomas4
+5;Allomas5
+6;Allomas6
+7;Allomas7
+8;Allomas8
+9;Allomas9
+10;Szeged
